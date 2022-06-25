@@ -12,27 +12,25 @@
  - Ana Sofia Teixeira 201806466
  - Diogo Moreira 201804904
 
-![Screenshot 1](images/screenshots/cgra-t10g05-proj-1.PNG)
-Fig 1. A track usada pelo comboio.
+Fig 1. Cubemap e a interface para alterar a textura.
+<img src="/project/images/screenshots/cgra-t10g05-proj-6.PNG" width="600" height="300">
+----------------------------------------------------------
 
-![Screenshot 5](images/screenshots/cgra-t10g05-proj-5.PNG)
-Fig 5. Locomotiva.
+Fig 2. Locomotiva com guindaste e interação com a madeira.
+<img src="/project/images/screenshots/cgra-t10g05-proj-7.PNG" width="600" height="300">
+----------------------------------------------------------
 
-![Screenshot 6](images/screenshots/cgra-t10g05-proj-6.PNG)
-Fig 6. Cubemap e a interface para alterar a textura.
+Fig 3. Locomotiva com texturas aplicadas.
+<img src="/project/images/screenshots/cgra-t10g05-proj-9.PNG" width="600" height="300">
+----------------------------------------------------------
 
-![Screenshot 7](images/screenshots/cgra-t10g05-proj-7.PNG)
-Fig 7. Locomotiva com guindaste e interação com a madeira.
+Fig 4. Locomotiva e estação com materiais e texturas aplicadas.
+<img src="/project/images/screenshots/cgra-t10g05-proj-10.PNG" width="600" height="300">
+----------------------------------------------------------
 
-![Screenshot 8](images/screenshots/cgra-t10g05-proj-8.PNG)
-Fig 8. Locomotiva com guindaste e interação com a madeira.
+Fig 5. Visão total da cena.<br />
+<img src="/project/images/screenshots/cgra-t10g05-proj-11.PNG" width="600" height="300">
+----------------------------------------------------------
 
-![Screenshot 9](images/screenshots/cgra-t10g05-proj-9.PNG)
-Fig 9. Locomotiva com texturas aplicadas.
 
-![Screenshot 10](images/screenshots/cgra-t10g05-proj-10.PNG)
-Fig 10. Locomotiva e estação com materiais e texturas aplicadas.
-
-![Screenshot 11](images/screenshots/cgra-t10g05-proj-11.PNG)
-Fig 11. Visão total da cena.
 
