@@ -1,6 +1,6 @@
 # FEUP_CGRA
 
-### Project Infos
+### Course General Info
 * **Course:** Computer Graphics (CGRA)
 * **Final Project:** 3D Computer Graphics project using WebGL 1.0
 * **Date:** 3rd Year, 2nd Semester, 2021/2022
